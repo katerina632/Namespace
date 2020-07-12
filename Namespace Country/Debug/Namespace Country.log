@@ -1,0 +1,8 @@
+﻿  GreatBritain.cpp
+  Poland.cpp
+  Source.cpp
+F:\ITStep\2 курс\ДЗ\20) HW  Namespace\Namespace Country\Source.cpp(16,12): warning C4566: character represented by universal-character-name '\u200B' cannot be represented in the current code page (1251)
+F:\ITStep\2 курс\ДЗ\20) HW  Namespace\Namespace Country\Source.cpp(22,11): warning C4566: character represented by universal-character-name '\u200B' cannot be represented in the current code page (1251)
+  Ukraine.cpp
+  Generating Code...
+  Namespace Country.vcxproj -> F:\ITStep\2 курс\ДЗ\20) HW  Namespace\Debug\Namespace Country.exe
